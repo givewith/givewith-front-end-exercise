@@ -3,11 +3,12 @@
 Welcome to the Givewith front-end exercise! This repo is intended to be the boilerplate for the front-end interview exercise.
 
 ## Instructions
-For this exercise, you will build a React-based image carousel with the images inside the `images` folder.
+For this exercise, you will build a React-based image carousel with the images inside the `src/assets/images` folder.
 
 **Requirements:**
 - Display one image at a time
 - Contain arrows that will advance the carousel in either direction.
+- Carousel cannot advance past last slide, or before first slide.
 
 Tested with node `v12.18.3`.
 
