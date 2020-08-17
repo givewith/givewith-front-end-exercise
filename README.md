@@ -1,3 +1,20 @@
+# Givewith Front-End Exercise
+
+Welcome to the Givewith front-end exercise! This repo is intended to be the boilerplate for the front-end interview exercise.
+
+## Instructions
+For this exercise, you will build a React-based image carousel with the images inside the `images` folder.
+
+**Requirements:**
+- Display one image at a time
+- Contain arrows that will advance the carousel in either direction.
+
+Tested with node `v12.18.3`.
+
+**Mockup:**
+![Mockup](/mockup.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
